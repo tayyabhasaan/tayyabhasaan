@@ -49,7 +49,6 @@ Currently working on improving my skills in:
 ## 📫 Contact
 
 - GitHub: https://github.com/tayyabhasaan  
-- Email: your-email@example.com  
 
 ---
 

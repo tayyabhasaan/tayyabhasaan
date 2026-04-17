@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi 👋 I'm Tayyab Hasaan
 
-<!--
-**tayyabhasaan/tayyabhasaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Full Stack Web Developer (Learning & Building)  
+🚀 Focused on building real-world projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I am a Computer Science student passionate about web development, backend systems, and building practical software solutions.
+
+Currently working on improving my skills in:
+- Full Stack Web Development
+- Node.js & Express.js
+- React.js
+- Database Design (MongoDB)
+- AI-based systems (beginner level)
+
+---
+
+## 🛠️ Tech Stack
+
+- Frontend: React.js, Tailwind CSS  
+- Backend: Node.js, Express.js  
+- Database: MongoDB  
+- Tools: Git, GitHub, VS Code  
+
+---
+
+## 📂 Projects
+
+- 🛒 LocalMart AI (Final Year Project – In Development)  
+  A hyperlocal marketplace connecting local shops with customers.
+
+- 💻 Other Practice Projects (GitHub Repositories)
+
+---
+
+## 📈 Goals for 2026
+
+- Become a Full Stack Developer  
+- Build strong portfolio projects  
+- Learn system design basics  
+- Start freelancing  
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/tayyabhasaan  
+- Email: your-email@example.com  
+
+---
+
+⭐ Always learning, always building.

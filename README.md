@@ -1,55 +1,62 @@
 # Hi 👋 I'm Tayyab Hasaan
 
+💻 Full Stack Developer (Learning + Building Real Projects)  
 🎓 Computer Science Student  
-💻 Full Stack Web Developer (Learning & Building)  
-🚀 Focused on building real-world projects  
+🚀 Passionate about building scalable web applications  
 
 ---
 
-## 👨‍💻 About Me
+## ⚡ Tech Stack
 
-I am a Computer Science student passionate about web development, backend systems, and building practical software solutions.
-
-Currently working on improving my skills in:
-- Full Stack Web Development
-- Node.js & Express.js
-- React.js
-- Database Design (MongoDB)
-- AI-based systems (beginner level)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ---
 
-## 🛠️ Tech Stack
+## 📊 GitHub Stats
 
-- Frontend: React.js, Tailwind CSS  
-- Backend: Node.js, Express.js  
-- Database: MongoDB  
-- Tools: Git, GitHub, VS Code  
+![Tayyab's GitHub stats](https://github-readme-stats.vercel.app/api?username=tayyabhasaan&show_icons=true&theme=radical)
 
 ---
 
-## 📂 Projects
+## 🔥 GitHub Streak
 
-- 🛒 LocalMart AI (Final Year Project – In Development)  
-  A hyperlocal marketplace connecting local shops with customers.
-
-- 💻 Other Practice Projects (GitHub Repositories)
+![GitHub Streak](https://streak-stats.demolab.com?user=tayyabhasaan&theme=radical)
 
 ---
 
-## 📈 Goals for 2026
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabhasaan&layout=compact&theme=radical)
+
+---
+
+## 🚀 Current Project
+
+🛒 LocalMart AI  
+A hyperlocal marketplace connecting local shops with customers  
+(React + Node + MongoDB)
+
+---
+
+## 📈 Goals
 
 - Become a Full Stack Developer  
-- Build strong portfolio projects  
-- Learn system design basics  
+- Build real-world SaaS projects  
 - Start freelancing  
+- Learn system design  
 
 ---
 
-## 📫 Contact
+## 📫 Connect With Me
 
 - GitHub: https://github.com/tayyabhasaan  
+- Email: tayyabhasaan0118@gmail.com  
 
 ---
 
-⭐ Always learning, always building.
+⭐ Always learning. Always building.

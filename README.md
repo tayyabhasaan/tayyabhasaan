@@ -1,62 +1,116 @@
-# Hi 👋 I'm Tayyab Hasaan
+# 👋 Hi, I'm Tayyab Hasaan  
+### 🚀 Full-Stack Developer (MERN) | Building Real-World Applications  
 
-💻 Full Stack Developer (Learning + Building Real Projects)  
-🎓 Computer Science Student  
-🚀 Passionate about building scalable web applications  
-
----
-
-## ⚡ Tech Stack
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=tayyabhasaan&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 About Me  
 
-![Tayyab's GitHub stats](https://github-readme-stats.vercel.app/api?username=tayyabhasaan&show_icons=true&theme=radical)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=tayyabhasaan&theme=radical)
+- 💻 Full-Stack Developer focused on **MERN stack applications**  
+- 🚀 Building **real-world scalable projects**  
+- 🧠 Currently learning **system design & backend optimization**  
+- 🎯 Goal: Become a **professional developer & freelancer**  
+- ⚡ Fun fact: I learn by **building, not just watching tutorials**  
 
 ---
 
-## 💻 Most Used Languages
+## ⚡ Tech Stack  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabhasaan&layout=compact&theme=radical)
+### 🎨 Frontend  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+</p>
+
+### ⚙️ Backend  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database & Tools  
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,postman" />
+</p>
 
 ---
 
-## 🚀 Current Project
+## 🚀 Featured Project  
 
-🛒 LocalMart AI  
+### 🛒 LocalMart AI  
 A hyperlocal marketplace connecting local shops with customers  
-(React + Node + MongoDB)
+
+**Tech Stack:** React, Node.js, MongoDB  
+
+**Key Features:**
+- 🏪 Local shop discovery  
+- 🛍️ Product listings  
+- ⚡ Fast & responsive UI  
+
+👉 Add Live Demo Here  
+👉 Add Repository Link Here  
 
 ---
 
-## 📈 Goals
+## 💼 Expertise  
 
-- Become a Full Stack Developer  
-- Build real-world SaaS projects  
-- Start freelancing  
-- Learn system design  
-
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/tayyabhasaan  
-- Email: tayyabhasaan0118@gmail.com  
+- 💻 Full-Stack Web Development  
+- 🔗 REST API Development  
+- ⚡ Responsive UI Design  
+- 🧩 CRUD Applications  
+- 🚀 Performance Optimization (Basics)  
 
 ---
 
-⭐ Always learning. Always building.
+## 📈 What I Focus On  
+
+- Writing **clean & maintainable code**  
+- Building **real-world projects**  
+- Improving **problem-solving skills**  
+- Learning **scalable system design**  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tayyabhasaan&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tayyabhasaan&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabhasaan&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 🤝 Let's Collaborate  
+
+I’m open to:
+- Freelance work  
+- Open source contributions  
+- Startup collaborations  
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="left">
+  <a href="https://github.com/tayyabhasaan">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <!-- Add LinkedIn when ready -->
+</p>
+
+---
+
+## 🔥 Developer Mindset  
+
+> “Consistency builds skill. Projects build proof.”
+
+---
+
+## ⚡ SEO Keywords  
+
+Full Stack Developer, MERN Stack Developer, React Developer, Node.js Developer, JavaScript Developer, Backend Developer, Frontend Developer, Web Applications, Scalable Apps

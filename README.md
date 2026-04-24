@@ -68,7 +68,7 @@
 ---
 
 ## 🤝 Connect
-- LinkedIn: https://linkedin.com/in/YOUR_USERNAME  
+- LinkedIn: www.linkedin.com/in/tayyab-hasaan 
 - Email: tayyabhasaan0118@gmail.com  
 
 ---

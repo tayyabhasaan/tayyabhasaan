@@ -36,23 +36,6 @@
 
 ---
 
-## 🚀 Featured Project  
-
-### 🛒 LocalMart AI  
-A hyperlocal marketplace connecting local shops with customers  
-
-**Tech Stack:** React, Node.js, MongoDB  
-
-**Key Features:**
-- 🏪 Local shop discovery  
-- 🛍️ Product listings  
-- ⚡ Fast & responsive UI  
-
-👉 Add Live Demo Here  
-👉 Add Repository Link Here  
-
----
-
 ## 💼 Expertise  
 
 - 💻 Full-Stack Web Development  
@@ -91,17 +74,6 @@ I’m open to:
 - Freelance work  
 - Open source contributions  
 - Startup collaborations  
-
----
-
-## 🌐 Connect With Me  
-
-<p align="left">
-  <a href="https://github.com/tayyabhasaan">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <!-- Add LinkedIn when ready -->
-</p>
 
 ---
 

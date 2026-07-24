@@ -60,25 +60,30 @@ Currently exploring **AI/ML, Generative AI, AI Agents, SaaS, and scalable softwa
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tayyabhasaan&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabhasaan&layout=compact&theme=github_dark&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tayyabhasaan&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tayyabhasaan&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabhasaan&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
 ## 🤝 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tayyab-hasaan">
-    <img src="https://img.shields.io/badge/LinkedIn-tayyab--hasaan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p align="left">
+  <a href="https://github.com/coder1haseeb">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
-</p>
-<p align="center"> 
-  <a href="mailto:tayyabhasaan0118@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tayyabhasaan0118%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.linkedin.com/in/developer-haseeb/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 

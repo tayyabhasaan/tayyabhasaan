@@ -1,77 +1,85 @@
-# 👋 Hi, I'm Tayyab Hasaan
+# Hi, I'm Tayyab Hasaan 👋
 
-💻 Software Engineer | Web Developer | Systems Builder  
-🔐 Focused on scalable systems, clean architecture, and real-world problem solving  
+### Full-Stack Developer | MERN Stack | AI-Powered Applications | Software & Web Solutions
+
+I'm a **Full-Stack Developer** and **BS Computer Science student at NUML**, passionate about building modern web applications, AI-powered solutions, and practical software products.
+
+Currently exploring **AI/ML, Generative AI, AI Agents, SaaS, and scalable software architecture**.
 
 ---
 
-## ⚡ About Me
-- Building **production-ready web applications**
-- Strong focus on **performance, scalability, and clean code**
-- Turning ideas into **real products & SaaS solutions**
-- Consistently improving through **DSA & hands-on projects**
+## 🚀 What I Do
+
+* 💻 Build **full-stack web applications** using the MERN stack
+* ⚛️ Develop modern and responsive **React.js interfaces**
+* 🧠 Explore and integrate **AI/ML into real-world applications**
+* 🤖 Work on **AI-powered agents and business automation**
+* 🏗️ Design and develop **SaaS and business management platforms**
+* 🗄️ Build and work with **REST APIs and databases**
+* 🎮 Develop interactive applications and games with **Unity & C#**
+* 💡 Turn ideas into practical, production-ready digital solutions
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🚀 Core
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+### Frontend
 
-### 🌐 Web
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
-
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
-
-### ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
-![Arduino](https://img.shields.io/badge/Arduino-000?style=for-the-badge&logo=arduino)
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tayyabhasaan&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tayyabhasaan&theme=github-dark&hide_border=true" />
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabhasaan&layout=compact&theme=github_dark&hide_border=true" />
+### Programming & Other Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cs,arduino,unity" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
 </p>
 
 ---
 
-## 🧠 Engineering Focus
-- Scalable Web Architectures  
-- Backend Development & APIs  
-- Database Design & Optimization  
-- Data Structures & Algorithms  
+## 🌱 Currently Learning & Exploring
+
+* 🤖 Artificial Intelligence & Machine Learning
+* 🧠 Generative AI & LLM Applications
+* 🔗 AI Agents & Workflow Automation
+* 🏗️ System Design & Software Architecture
+* ☁️ Cloud & Scalable Applications
+* 💼 SaaS Product Development
 
 ---
 
-## 📈 Current Direction
-- Building **SaaS products**
-- Expanding into **AI-powered applications**
-- Strengthening **system design & backend expertise**
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+</p>
 
 ---
 
-## 🤝 Connect
-- LinkedIn: www.linkedin.com/in/tayyab-hasaan 
-- Email: tayyabhasaan0118@gmail.com  
+## 🤝 Let's Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/tayyab-hasaan">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:tayyabhasaan0118@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
-## ⚡ Philosophy
-> Build. Break. Learn. Repeat.
+### 💡 Build. Learn. Iterate. Create something that matters.

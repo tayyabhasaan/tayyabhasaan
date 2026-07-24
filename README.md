@@ -75,6 +75,8 @@ Currently exploring **AI/ML, Generative AI, AI Agents, SaaS, and scalable softwa
   <a href="https://www.linkedin.com/in/tayyab-hasaan">
     <img src="https://img.shields.io/badge/LinkedIn-tayyab--hasaan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+</p>
+<p align="center"> 
   <a href="mailto:tayyabhasaan0118@gmail.com">
     <img src="https://img.shields.io/badge/Email-tayyabhasaan0118%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
